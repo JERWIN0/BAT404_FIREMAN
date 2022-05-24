@@ -5,15 +5,15 @@ A wildfire is an unplanned fire that burns in a natural area such as a forest, g
 The risk of wildfires increases in extremely dry conditions, such as drought, and during high winds. Wildfires can disrupt transportation, communications, power and gas services, and water supply. They also lead to a deterioration of the air quality, and loss of property, crops, resources, animals and people.
 Wildfires and volcanic activities affected 6.2 million people between 1998-2017 with 2400 attributable deaths worldwide from suffocation, injuries, and burns, but the size and frequency of wildfires are growing due to climate change. Hotter and drier conditions are drying out ecosystems and increasing the risk of wildfires. Wildfires also simultaneously impact weather and the climate by releasing large quantities of carbon dioxide, carbon monoxide and fine particulate matter into the atmosphere. Resulting air pollution can cause a range of health issues, including respiratory and cardiovascular problems. Another significant health effect of wildfires is on mental health and psychosocial well-being.
 
-Problem Statement
+## Problem Statement
 
 Wildfire is one common disaster happening worldwide. It causes air pollution not only nearby, but thousands of miles away causing breathing difficulties.Fire can be deadly, destroying homes, wildlife habitat and timber, and polluting the air with emissions harmful to human health.
 
-Significance of the Proposed Project
+## Significance of the Proposed Project
 
 It’s commonly known that wildfires happen mostly in dry areas. We want to raise awareness to persons living in dry areas what are precautionary measures to prevent or lessen the chance of this natural disaster to occur. In other cases, when this natural disaster is already happening, we can just enlighten them about what they need to know to prevent loss of lives and major damage to specific ecosystems.
 
-Methods
+## Methods
 
 We've shown that the generally held idea of rising fires and fire impacts on a global and regional scale isn't adequately supported by the realities shown by the available data. We don't doubt that fire season length and area burned have grown in some parts of North America in recent decades, or that climate and land use change could lead to dramatic alterations in future fire outcomes, including potential increases in area burned, severity, and impacts across wide areas. However, the data available to date does not support a global increase in the area burned or the severity of fires in many parts of the world. Indeed, there is mounting evidence that there is less fire in general. However,
  the data available to date does not support a global increase in the area burned or the severity of fires in many parts of the world. Indeed, there is mounting evidence that there is less fire in the landscape today than there was hundreds of years ago, albeit the degree of this loss has to be investigated further.
