@@ -1,5 +1,5 @@
 # Project Title: Explanatory Analysis of Wildfires Occurrence Worldwide
-Introduction
+## Introduction
 
 A wildfire is an unplanned fire that burns in a natural area such as a forest, grassland, or prairie. Wildfires are often caused by human activity or a natural phenomenon such as lightning, and they can happen at any time or anywhere. In 50% of wildfires recorded, it is not known how they started.
 The risk of wildfires increases in extremely dry conditions, such as drought, and during high winds. Wildfires can disrupt transportation, communications, power and gas services, and water supply. They also lead to a deterioration of the air quality, and loss of property, crops, resources, animals and people.
