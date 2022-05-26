@@ -21,5 +21,5 @@ We've shown that the generally held idea of rising fires and fire impacts on a g
 ## Expected Output
 With this proposed project we can determine what are the major causes of wildfires and how are we going to prevent or lessen its occurrence. Also if there’s currently occuring wildfire  in a certain location nearby individuals know what to do during the time of this natural disaster. Through awareness we can save lives of a person and also a specific ecosystem.
 
-
+## Sources
 
