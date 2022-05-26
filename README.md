@@ -18,5 +18,8 @@ It’s commonly known that wildfires happen mostly in dry areas. We want to rais
 We've shown that the generally held idea of rising fires and fire impacts on a global and regional scale isn't adequately supported by the realities shown by the available data. We don't doubt that fire season length and area burned have grown in some parts of North America in recent decades, or that climate and land use change could lead to dramatic alterations in future fire outcomes, including potential increases in area burned, severity, and impacts across wide areas. However, the data available to date does not support a global increase in the area burned or the severity of fires in many parts of the world. Indeed, there is mounting evidence that there is less fire in general. However,
  the data available to date does not support a global increase in the area burned or the severity of fires in many parts of the world. Indeed, there is mounting evidence that there is less fire in the landscape today than there was hundreds of years ago, albeit the degree of this loss has to be investigated further.
 
+## Expected Output
+With this proposed project we can determine what are the major causes of wildfires and how are we going to prevent or lessen its occurrence. Also if there’s currently occuring wildfire  in a certain location nearby individuals know what to do during the time of this natural disaster. Through awareness we can save lives of a person and also a specific ecosystem.
+
 
 
