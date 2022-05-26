@@ -24,4 +24,4 @@ With this proposed project we can determine what are the major causes of wildfir
 ## Sources
 
 ## SDG: 15 LIFE ON LAND
-![Sustainable_Development_Goal_15](https://user-images.githubusercontent.com/103124210/170488347-86f346e2-6d51-42a8-acea-ea7edddd6a26.png{width=40px height=400px})
+![Sustainable_Development_Goal_15](https://user-images.githubusercontent.com/103124210/170489692-238f21d7-c1c6-4427-a97e-b3fd2184d6d9.png)
