@@ -35,5 +35,5 @@ With this proposed project we can determine what are the major causes of wildfir
 
 
 ## SDG
-<c><a href="">15 LIFE ON LAND</a></c>
+<a href=""><img src= "https://user-images.githubusercontent.com/103124210/170488347-86f346e2-6d51-42a8-acea-ea7edddd6a26.png" width= "1500" height = "500"></a>
 <img src= "https://user-images.githubusercontent.com/103124210/170488347-86f346e2-6d51-42a8-acea-ea7edddd6a26.png" width= "1500" height = "500">
