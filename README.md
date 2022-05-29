@@ -35,5 +35,5 @@ With this proposed project we can determine what are the major causes of wildfir
 
 
 ## SDG
-<a href="https://sdgs.un.org/goals"><img src= "https://user-images.githubusercontent.com/103124210/170488347-86f346e2-6d51-42a8-acea-ea7edddd6a26.png" width= "1500" height = "500"></a>
+<a href="[https://sdgs.un.org/goals](https://sdgs.un.org/goals/goal15)"><img src= "https://user-images.githubusercontent.com/103124210/170488347-86f346e2-6d51-42a8-acea-ea7edddd6a26.png" width= "1500" height = "500"></a>
 
