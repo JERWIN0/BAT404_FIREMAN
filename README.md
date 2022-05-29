@@ -22,6 +22,18 @@ We've shown that the generally held idea of rising fires and fire impacts on a g
 With this proposed project we can determine what are the major causes of wildfires and how are we going to prevent or lessen its occurrence. Also if there’s currently occuring wildfire  in a certain location nearby individuals know what to do during the time of this natural disaster. Through awareness we can save lives of a person and also a specific ecosystem.
 
 ## Sources
+<a href=""> For Source 1</a>
+<a href=""> For Source 2</a>
+<a href=""> For Source 3</a>
+<a href=""> For Source 4</a>
+<a href=""> For Source 5</a>
+<a href=""> For Source 6</a>
+<a href=""> For Source 7</a>
+<a href=""> For Source 8</a>
+<a href=""> For Source 9</a>
+<a href=""> For Source 10</a>
 
-## SDG: 15 LIFE ON LAND
+
+## SDG
+<a href=""> 15 LIFE ON LAND</a>
 <img src= "https://user-images.githubusercontent.com/103124210/170488347-86f346e2-6d51-42a8-acea-ea7edddd6a26.png" width= "1500" height = "500">
