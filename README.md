@@ -1,4 +1,7 @@
 # Project Title: Explanatory Analysis of Wildfires Occurrence Worldwide
+## Sustainable Development Goals(SDGs)
+<a href="https://sdgs.un.org/goals/goal15"><img src= "https://user-images.githubusercontent.com/103124210/170488347-86f346e2-6d51-42a8-acea-ea7edddd6a26.png" width= "1500" height = "500"></a>
+
 ## Introduction
 
 A wildfire is an unplanned fire that burns in a natural area such as a forest, grassland, or prairie. Wildfires are often caused by human activity or a natural phenomenon such as lightning, and they can happen at any time or anywhere. In 50% of wildfires recorded, it is not known how they started.
@@ -34,6 +37,4 @@ With this proposed project we can determine what are the major causes of wildfir
 <a href="https://www.lung.org/blog/how-wildfires-affect-health#:~:text=Wildfires%20threaten%20lives%20directly%2C%20and,COPD%20and%20other%20lung%20diseases"> For Source 10</a><br>
 
 
-## Sustainable Development Goals(SDGs)
-<a href="https://sdgs.un.org/goals/goal15"><img src= "https://user-images.githubusercontent.com/103124210/170488347-86f346e2-6d51-42a8-acea-ea7edddd6a26.png" width= "1500" height = "500"></a>
 
