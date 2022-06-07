@@ -22,16 +22,16 @@ We've shown that the generally held idea of rising fires and fire impacts on a g
 With this proposed project we can determine what are the major causes of wildfires and how are we going to prevent or lessen its occurrence. Also if there’s currently occuring wildfire  in a certain location nearby individuals know what to do during the time of this natural disaster. Through awareness we can save lives of a person and also a specific ecosystem.
 
 ## Sources
-01.<a href="https://ucanr.edu/sites/forestry/Wildfire/"> For Source 1</a><br>
-02.<a href="https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-20132020"> For Source 2</a><br>
-03.<a href="https://wildfiretoday.com/"> For Source 3</a><br>
-04.<a href="https://www.weather.gov/safety/wildfire"> For Source 4</a><br>
-05.<a href="https://theconversation.com/global/topics/wildfire-3862"> For Source 5</a><br>
-06.<a href="https://www.wunderground.com/prepare/wildfire"> For Source 6</a><br>
-07.<a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status"> For Source 7</a><br>
-08.<a href="https://www.fs.usda.gov/pnw/page/fire-effects-environment#:~:text=It%20plays%20a%20key%20role,greenhouse%20gas%E2%80%94into%20the%20atmosphere"> For Source 8</a><br>
-09.<a href="https://www.fs.usda.gov/pnw/page/fire-effects-environment#:~:text=It%20plays%20a%20key%20role,greenhouse%20gas%E2%80%94into%20the%20atmosphere"> For Source 9</a><br>
-10.<a href="https://www.lung.org/blog/how-wildfires-affect-health#:~:text=Wildfires%20threaten%20lives%20directly%2C%20and,COPD%20and%20other%20lung%20diseases"> For Source 10</a><br>
+<a href="https://ucanr.edu/sites/forestry/Wildfire/"> For Source 1</a><br>
+<a href="https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-20132020"> For Source 2</a><br>
+<a href="https://wildfiretoday.com/"> For Source 3</a><br>
+<a href="https://www.weather.gov/safety/wildfire"> For Source 4</a><br>
+<a href="https://theconversation.com/global/topics/wildfire-3862"> For Source 5</a><br>
+<a href="https://www.wunderground.com/prepare/wildfire"> For Source 6</a><br>
+<a href="https://www2.gov.bc.ca/gov/content/safety/wildfire-status"> For Source 7</a><br>
+<a href="https://www.fs.usda.gov/pnw/page/fire-effects-environment#:~:text=It%20plays%20a%20key%20role,greenhouse%20gas%E2%80%94into%20the%20atmosphere"> For Source 8</a><br>
+<a href="https://www.fs.usda.gov/pnw/page/fire-effects-environment#:~:text=It%20plays%20a%20key%20role,greenhouse%20gas%E2%80%94into%20the%20atmosphere"> For Source 9</a><br>
+<a href="https://www.lung.org/blog/how-wildfires-affect-health#:~:text=Wildfires%20threaten%20lives%20directly%2C%20and,COPD%20and%20other%20lung%20diseases"> For Source 10</a><br>
 
 
 ## Sustainable Development Goals(SDGs)
