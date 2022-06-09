@@ -36,5 +36,8 @@ With this proposed project we can determine what are the major causes of wildfir
 <a href="https://www.fs.usda.gov/pnw/page/fire-effects-environment#:~:text=It%20plays%20a%20key%20role,greenhouse%20gas%E2%80%94into%20the%20atmosphere"> For Source 9</a><br>
 <a href="https://www.lung.org/blog/how-wildfires-affect-health#:~:text=Wildfires%20threaten%20lives%20directly%2C%20and,COPD%20and%20other%20lung%20diseases"> For Source 10</a><br>
 
+# Contributors
+De Guzman, Jerwin
+Gallardo,Jewel
 
 
