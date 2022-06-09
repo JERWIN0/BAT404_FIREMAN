@@ -37,7 +37,6 @@ With this proposed project we can determine what are the major causes of wildfir
 <a href="https://www.lung.org/blog/how-wildfires-affect-health#:~:text=Wildfires%20threaten%20lives%20directly%2C%20and,COPD%20and%20other%20lung%20diseases"> For Source 10</a><br>
 
 ### Contributors
-De Guzman, Jerwin
-Gallardo,Jewel
+De Guzman, Jerwin & Gallardo,Jewel
 
 
